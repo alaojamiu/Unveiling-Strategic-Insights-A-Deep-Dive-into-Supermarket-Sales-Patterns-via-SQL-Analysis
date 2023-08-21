@@ -1,5 +1,9 @@
 ## Introduction
 
+![](istock.jpg)
+
+_image from istockphoto.com_
+
 In this project, I embarked on an insightful journey involving the analysis of a retail sales dataset utilizing SQL. This dataset offered abundant valuable information concerning sales transactions, intricate product attributes, customer behavioral patterns, and more. The overarching aim was to effectively employ SQL queries and aggregate functions to extract meaningful insights from the dataset. These insights, in turn, facilitated the derivation of informed conclusions that held the potential to provide actionable guidance for strategic business decisions.
 
 ## Dataset Overview
